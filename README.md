@@ -1,0 +1,1 @@
+# ssho-daily-scrum-board
